@@ -37,12 +37,12 @@ main {
   width: 187px;
   font-size: 20px;
   color: #fff;
-  background-color: #f05454;
+  background-color: #0C9463;
   border-radius: 7px;
   cursor: pointer;
 }
 .header_content button:hover {
-  background-color: #c41b1b;
+  background-color: #50D890;
 }
 
 .header_banner {
@@ -108,7 +108,7 @@ main {
 }
 
 .button_container button:hover {
-  background-color: #f05454;
+  background-color: #0C9463;
   color: #fff;
 }
 
@@ -129,11 +129,11 @@ main {
   display: none;
 }
 .tab_device_side_button button:hover {
-  background-color: #f05454;
+  background-color: #50D890;
   color: #fff;
 }
 .blog_button_tab {
-  background-color: #f05454;
+  background-color: #0C9463;
   color: #fff;
   font-size: 18px;
   font-weight: bold;
@@ -155,11 +155,11 @@ main {
   display: none;
 }
 .mob_device_side_button button:hover {
-  background-color: #f05454;
+  background-color: #50D890;
   color: #fff;
 }
 .blog_button_mob {
-  background-color: #f05454;
+  background-color: #0C9463;
   width: 150px;
   color: #fff;
   font-size: 18px;
@@ -167,7 +167,7 @@ main {
 }
 
 .blog_button {
-  background-color: #f05454;
+  background-color: #0C9463;
   color: #fff;
   font-size: 18px;
   font-weight: bold;
@@ -241,7 +241,7 @@ main {
   padding-left: 10px;
 }
 .match_transfer_button button:hover {
-  background-color: #f05454;
+  background-color: #50D890;
   color: #fff;
   transition: 0.4s;
 }
@@ -290,13 +290,13 @@ main {
   width: 187px;
   font-size: 20px;
   color: #fff;
-  background-color: #f05454;
+  background-color: #0C9463;
   border-radius: 7px;
   cursor: pointer;
   border: 0;
 }
 .viewallbutton button:hover{
-    background-color: #c41b1b;
+    background-color: #50D890;
 }
 .viewallbutton {
   display: flex;
@@ -344,7 +344,7 @@ main {
     width: 161px;
     font-size: 20px;
     color: #fff;
-    background-color: #f05454;
+    background-color: #0C9463;
     border-radius: 7px;
   }
 
@@ -376,7 +376,7 @@ main {
     text-align: center;
     font-size: 40px;
     font-weight: bold;
-    color: #f05454;
+    color: #0C9463;
   }
 
   .footer_link {
@@ -388,7 +388,7 @@ main {
   .social_icon a {
     padding-right: 30px;
     font-size: 30px;
-    color: #f05454;
+    color: #0C9463;
     text-align: center;
   }
 }
@@ -446,7 +446,7 @@ main {
     width: 161px;
     font-size: 20px;
     color: #fff;
-    background-color: #f05454;
+    background-color: #0C9463;
     border-radius: 7px;
   }
 
@@ -476,7 +476,7 @@ main {
   text-align: center;
   font-size: 40px;
   font-weight: bold;
-  color: #f05454;
+  color: #0C9463;
   padding-bottom: 20px;
 }
 
@@ -503,7 +503,7 @@ hr {
 .social_icon a {
   padding-right: 30px;
   font-size: 30px;
-  color: #f05454;
+  color: #0C9463;
   text-align: center;
 }
 
