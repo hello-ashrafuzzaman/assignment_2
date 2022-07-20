@@ -84,6 +84,7 @@ main {
 .schedule_container {
   display: flex;
   margin-top: 20px;
+  
 }
 
 .button_container {
@@ -307,9 +308,14 @@ main {
 
 /* Mobile Device Responsive start */
 @media screen and (max-width: 576px) {
-  .match_container {
+  .match_container  {
     grid-template-columns: repeat(1, 1fr);
   }
+
+    .Upmatch_container{
+    grid-template-columns: repeat(1, 1fr);
+  }
+  
   .schedule_container {
     flex-direction: column;
   }
@@ -397,6 +403,9 @@ main {
 /* Tab Device Responsive start */
 @media screen and (min-width: 577px) and (max-width: 992px) {
   .match_container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .Upmatch_container{
     grid-template-columns: repeat(2, 1fr);
   }
   .schedule_container {
